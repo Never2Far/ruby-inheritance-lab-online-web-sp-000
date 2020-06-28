@@ -15,7 +15,7 @@ end
 
 
 def knowledge
-  return @ knowledge
+  return @knowledge
 end
 
 
