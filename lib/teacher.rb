@@ -6,7 +6,9 @@ class Teacher < User
 # def initialize(first_name, last_name)
 #
 # end
-
+def initialize(first, last)
+  User.new(first, last)
+end
 
 
 
