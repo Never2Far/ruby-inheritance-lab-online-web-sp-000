@@ -1,9 +1,11 @@
-require_relative "./user.rb"
+require "user"
 
 class Teacher < User
 
 
-
+def initialize(first_name, last_name)
+  
+end
 
 
 
